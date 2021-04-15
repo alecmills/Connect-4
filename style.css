@@ -1,0 +1,52 @@
+body{
+    background-color: #555;
+  }
+  #rules{
+    margin: auto;
+    background-color: #335;
+    width: 550px;
+    padding: 1px;
+  }
+  h1{
+    text-align: center;
+    color: #888;
+  }
+  p{
+    text-align: center;
+    color: #888;
+  }
+  
+  main {
+    background-color: #888;
+    width: 405px;
+    height: 335px;
+    margin: auto;
+    position: relative;
+  }
+  .player{
+    margin:10px;
+    height: 45px;
+    width: 45px;
+    border-radius: 50%;
+    background-color: #555;
+  }
+  .player.a{
+    background-color:  #335; 
+  }
+  .player.b{
+    background-color:  #957;
+  }
+  table{
+    padding-left:5px;
+    border-spacing: 8px;
+  }
+  footer{
+    background-color: #335;
+    width: 405px;
+    height: 50px;
+    margin: auto;
+    padding-top: 5px;
+  }
+  #reset{
+    margin-right: 200px;
+  }
